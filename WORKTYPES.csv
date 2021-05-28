@@ -1,0 +1,187 @@
+Code,Description,Group
+1011,PCC Pavement - New,8
+1012,PCC Pavement - Replace,8
+1013,PCC Pavement - Grade and New,8
+1014,PCC Pavement - Grade and Replace,8
+1021,HMA Pavement - New,6
+1022,HMA Pavement - Replace,6
+1023,HMA Pavement - Grade and New,6
+1024,HMA Pavement - Grade and Replace,6
+1027,HMA Pavement - Full Depth Reclamation,6
+1051,Alternate Pavement Types-Mainline Paving,1
+1052,Alternate Paved Sidewalk/Trail Types,1
+1053,Alternate Pavement Types - Resurfacing,1
+1511,PCC Pavement Widening,8
+1512,PCC Pavement with HMA Resurfacing,6
+1513,PCC Pavement Widening with PCC Resurfacing,8
+1514,PCC Overlay - Bonded,8
+1515,PCC Overlay - Unbonded,8
+1516,PCC Curb and Gutter,8
+1521,HMA Pavement Widening,6
+1522,HMA Pavement Widening/HMA Resurfacing,6
+1523,HMA Resurfacing,6
+1524,HMA Resurfacing with Milling,6
+1525,HMA Resurfacing/Cold-in-Place Recycling,6
+1526,HMA Resurfacing with Heater Scarification,6
+1527,PCC Pavement Widening with HMA Resurfacing,6
+1528,PCC Pavement Widening with HMA Resurfacing,8
+1531,PCC Patching,10
+1532,PCC Joint and Crack Filling,10
+1533,HMA Patching,10
+1534,HMA Joint and Crack Sealing,10
+1535,HMA Crack Filling,10
+1537,Longitudinal Joint Repair,10
+1538,Transverse Joint Repair,10
+1541,Pavement Planing / Grooving,10
+1551,Seal Coat,10
+1552,Slurry Seal,10
+1553,Fog Seal,10
+1554,Microsurfacing,10
+1555,Milled Rumble Strips,10
+1561,Median Crossover,8
+1571,Bridge Approach Repair,8
+2012,Bridge New-CCS,9
+2013,Bridge New-PPCB,9
+2014,Bridge New-Steel Girder,9
+2017,Bridge New - Other,9
+2022,Bridge Replacement-CCS,9
+2023,Bridge Replacement-PPCB,9
+2024,Bridge Replacement-Steel Girder,9
+2027,Bridge Replacement - Other,9
+2031,Bridge – Substructure,9
+2041,Bridge – Superstructure,9
+2052,Bridge and Approaches-CCS,9
+2053,Bridge and Approaches - PPCB,9
+2054,Bridge and Approaches – Steel Girder,9
+2057,Bridge and Approaches – Other,9
+2506,Reconstruction - Bridge Deck Replacement,9
+2507,Reconstruction - Bridge Widening,9
+2508,Reconstruction - Bridge Super Replacement,9
+2509,Reconstruction - Bridge Super Strengthen,9
+2513,Bridge Rehabilitation,9
+2515,PPCB Repair,9
+2516,Steel Girder Repair,9
+2521,Bridge Deck Overlay,9
+2531,Bridge Removal,9
+2541,Bridge Deck Grooving,9
+2542,Deck Joint Repair,9
+2543,Bridge Rail Retrofit,9
+2544,Epoxy Injection of Overlays,9
+2545,Epoxy Injection of Cracks,9
+2550,Bridge Repair,9
+2551,Abutment Repair,9
+2552,Pier Repair,9
+2553,Piling Repair,9
+2558,Permanent Scour Countermeasures,9
+2561,Bridge Painting,2
+2563,Bridge Cleaning,2
+3041,RCB Culvert - Repair,9
+3111,RCB Culvert New - Single Box,9
+3112,RCB Culvert New – Twin Box,9
+3113,RCB Culvert New – Triple Box,9
+3121,RCB Culvert Replacement - Single Box,9
+3122,RCB Culvert Replacement - Twin Box,9
+3123,RCB Culvert Replacement - Triple Box,9
+3131,RCB Culvert Extension - Single Box,9
+3132,RCB Culvert Extension – Twin Box,9
+3142,Reconstruction - RCB Culvert Ext – Twin,9
+3143,Reconstruction- RCB Culvert Ext - Triple,9
+3410,Retaining Wall -- Cast-In-Place,9
+3511,Grading,5
+3521,Ditch Improvement,5
+3522,Slide Repair,5
+3523,Slope Improvement,5
+3524,Snow Borrow Improvement,5
+3525,Debris Removal,7
+3526,MSE Wall,5
+3531,Granular Surfacing of Roadway,5
+3541,Longitudinal Subdrains,5
+3542,Subdrains,5
+3551,Storm Sewer / Intakes,5
+3552,Sanitary Sewer,5
+3553,Watermain,5
+3561,Fencing,5
+3571,Revetment,5
+3572,Emergency Repair - Erosion,5
+3573,Slope Protection,5
+3581,Pipe Culverts,5
+3582,Pipe Culvert / Drop Inlet,5
+3583,Pipe Culverts/Flume,5
+4011,PCC Paved Shoulder - New,8
+4012,PCC Paved Shoulder - Repair,8
+4021,HMA Paved Shoulder - New,6
+4022,HMA Paved Shoulder - Repair,6
+4023,HMA Paved Shoulder - Seal Coat,10
+4024,HMA Paved Shoulder - Fog Seal,10
+4025,HMA Paved Shoulder - Slurry Seal,10
+4031,Paved Shoulder Strengthening,8
+4041,Shoulder Grading,5
+4042,Shoulder Widening,5
+4051,Granular Shoulders - New,5
+4052,Granular Shoulders - Repair,5
+4061,Earth Shoulders - New,5
+4062,Earth Shoulders - Repair,5
+4511,Mowing,4
+4521,Erosion Control,4
+4531,Landscaping,4
+4541,Tree Planting (DNR $$),4
+4551,Wetland Mitigation,4
+4552,Wetland Mitigation Remediation,4
+4562,Clearing and Grubbing,4
+4805,4f Mitigation,4
+4806,4f and 6f Mitigation,4
+4807,6f Mitigation,4
+4810,Flood Plain Mitigation,4
+4820,Flood Storage Mitigation,4
+4830,NEPA Mitigation,4
+4840,Open Water Mitigation,4
+4850,Prairie Mitigation,4
+4860,Stream Mitigation,4
+4865,Stream Bank Mitigation,4
+4870,T&E Species Mitigation,4
+4880,Wetland Bank Mitigation,4
+4890,Woodland Mitigation,4
+5011,Guardrail,11
+5012,Barrier Rail,11
+5013,Attenuators,11
+5014,Guardrail Repair,11
+5021,Lighting,11
+5031,Railroad Signals,11
+5032,Railroad Crossing,11
+5041,Traffic Signals,11
+5051,Pavement Markings,11
+5052,Raised Pavement Markers,11
+5061,Delineator and Milepost Signs,11
+5062,Traffic Signs,11
+5063,Dynamic Message Signs,11
+5071,ITS Equipment,11
+7011,Rest Area Building - New,3
+7012,Rest Area Building - Remodel,3
+7013,Rest Area Building - Maintain,3
+7021,Rest Area Water,5
+7022,Rest Area Sewer,5
+7031,Rest Area Landscaping,4
+7032,Rest Area Lighting,11
+7041,Rest Area Ramp and Parking Improvements,8
+7042,Rest Area Ground Maintenance,3
+7043,Rest Area Miscellaneous Repair,3
+7051,Weigh Scale Building - New,3
+7052,Weigh Scale Building - Remodel,3
+7061,Weigh Scale Water,5
+7062,Weigh Scale Sewer,5
+7071,Weigh Scale Landscaping,4
+7072,Weigh Scale Area Lighting,11
+7081,Weigh Scale Ramp and Parking Improvements,8
+7082,Weigh Scale Ground Maintenance,3
+7091,Weigh Scale - Scales and Electronics,3
+7111,Building - New,3
+7121,Building - Renovation,3
+7511,Salvage and Removal,3
+7521,Asbestos Removal,3
+7531,Well Capping,3
+8011,Noise Wall,7
+8022,HMA Sidewalk/Trail,6
+8023,PCC Sidewalk/Trail,8
+8024,Earth or Granular Surface Trail,5
+8025,Miscellaneous Surface Trail,7
+8031,Miscellaneous,7
